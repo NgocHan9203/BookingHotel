@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/model/RoomType.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/filter/Authenication.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/billBooking.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/Input_Cus_CheckIn.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/index.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/model/Order.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/searchHotelByCity.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/controller/LoginController.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/dal/OwnerDAO.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/roomManagement.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/login.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/controller/AddHotel.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/profile.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/model/Customer.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/checkCode.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/dal/OrderDAO.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/dal/RoomTypeDAO.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/customer_information.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/booking_information.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/dal/AccountDAO.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/controller/ImageFilter.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/controller/checkCode.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/controller/CheckOwner.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/rooms.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/controller/profile.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/controller/checkOut.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/hanoi.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/hotelManagement.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/controller/HotelManage.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/controller/ListHotelServlet.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/controller/EditHotel.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/dal/HotelDAO.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/addroom.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/checkOut.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/controller/searchControl.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/booking_service.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/model/Owner.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/dal/RoomDB.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/model/Hotel.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/dal/BookingDAO.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/room-single.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/upHotel.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/EditHotel.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/include/Header_Of_Owner.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/include/Footer.jsp</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/src/java/model/Room.java</file>
+            <file>file:/C:/Users/win/OneDrive/Documents/NetBeansProjects/Booking/web/checkIn.jsp</file>
+        </group>
+    </open-files>
+</project-private>
